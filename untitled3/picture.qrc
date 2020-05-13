@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>button.png</file>
+        <file>buttonbackground.png</file>
+        <file>loginbackground.jpg</file>
+        <file>textbackground.jpg</file>
+        <file>helpbutton.jpg</file>
+        <file>close.png</file>
+        <file>bgp.jpeg</file>
+        <file>menuButton.png</file>
+        <file>info.png</file>
+    </qresource>
+</RCC>
